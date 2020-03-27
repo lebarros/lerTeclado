@@ -1,0 +1,13 @@
+C:\Users\Casa\Documents\ws-vs2019\LerTeclado\LerTeclado\bin\Debug\netcoreapp3.1\LerTeclado.exe
+C:\Users\Casa\Documents\ws-vs2019\LerTeclado\LerTeclado\bin\Debug\netcoreapp3.1\LerTeclado.deps.json
+C:\Users\Casa\Documents\ws-vs2019\LerTeclado\LerTeclado\bin\Debug\netcoreapp3.1\LerTeclado.runtimeconfig.json
+C:\Users\Casa\Documents\ws-vs2019\LerTeclado\LerTeclado\bin\Debug\netcoreapp3.1\LerTeclado.runtimeconfig.dev.json
+C:\Users\Casa\Documents\ws-vs2019\LerTeclado\LerTeclado\bin\Debug\netcoreapp3.1\LerTeclado.dll
+C:\Users\Casa\Documents\ws-vs2019\LerTeclado\LerTeclado\bin\Debug\netcoreapp3.1\LerTeclado.pdb
+C:\Users\Casa\Documents\ws-vs2019\LerTeclado\LerTeclado\obj\Debug\netcoreapp3.1\LerTeclado.csprojAssemblyReference.cache
+C:\Users\Casa\Documents\ws-vs2019\LerTeclado\LerTeclado\obj\Debug\netcoreapp3.1\LerTeclado.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Documents\ws-vs2019\LerTeclado\LerTeclado\obj\Debug\netcoreapp3.1\LerTeclado.AssemblyInfoInputs.cache
+C:\Users\Casa\Documents\ws-vs2019\LerTeclado\LerTeclado\obj\Debug\netcoreapp3.1\LerTeclado.AssemblyInfo.cs
+C:\Users\Casa\Documents\ws-vs2019\LerTeclado\LerTeclado\obj\Debug\netcoreapp3.1\LerTeclado.dll
+C:\Users\Casa\Documents\ws-vs2019\LerTeclado\LerTeclado\obj\Debug\netcoreapp3.1\LerTeclado.pdb
+C:\Users\Casa\Documents\ws-vs2019\LerTeclado\LerTeclado\obj\Debug\netcoreapp3.1\LerTeclado.genruntimeconfig.cache
